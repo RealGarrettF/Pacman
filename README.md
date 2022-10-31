@@ -1,4 +1,4 @@
-#Pacman Project: 
+# Pacman Project: 
 This project creates a pacman that is able, moves across the screen and is "animated." 
 Once it reaches the end of the screen, it will turn around and go in the other direction.
 
