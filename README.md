@@ -1,5 +1,7 @@
 # Pacman Project: 
 
+<img src= "/images/Pacman1.png" width = '300' />
+
 This project creates a pacman that is able to move aross the screen and is "animated." 
 Once it reaches the end of the screen, it will turn around and go in the other direction.
 
